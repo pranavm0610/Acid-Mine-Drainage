@@ -1,7 +1,5 @@
 # Detecting Acid Mine Drainage using Google Earth Engine
 
-# Acid Mine Drainage Detection using Google Earth Engine
-
 ## Overview
 This project aims to detect Acid Mine Drainage (AMD) using Sentinel images and Google Earth Engine (GEE). The script provided allows users to analyze Sentinel images, calculate AMD indices, visualize AMD layers, and find the distance to the nearest mine.
 
