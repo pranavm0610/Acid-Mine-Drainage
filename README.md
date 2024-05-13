@@ -17,11 +17,11 @@ This project aims to detect Acid Mine Drainage (AMD) using Sentinel images and G
 7. **Determine Acidity of Water Bodies**: Select the PH index (PH) to visualise the pH of water bodies on the map.
 8. **Find Distance to Nearest Mine**: Click the "Find distance to nearest mine" button, then click on the map to calculate the distance to the nearest mine from the selected location.
 
-<img src="https://github.com/pranavjoe06/Acid-Mine-Drainage/assets/139887901/e49cc134-c2f7-4914-a1f7-989ac4bad4ce" alt="pH Layer" width="200">
-<span style="font-size: 18px;">pH Layer</span>
+<img src="https://github.com/pranavjoe06/Acid-Mine-Drainage/assets/139887901/e49cc134-c2f7-4914-a1f7-989ac4bad4ce" alt="pH Layer" width="400">
+<span style="font-size: 18px;"><b>pH Layer</b></span>
 
-<img src="https://github.com/pranavjoe06/Acid-Mine-Drainage/assets/139887901/2e7c235c-f66f-49b4-b907-be3d3d65f161" alt="AMWI Layer" width="200">
-<span style="font-size: 18px;">AMWI Layer</span>
+<img src="https://github.com/pranavjoe06/Acid-Mine-Drainage/assets/139887901/2e7c235c-f66f-49b4-b907-be3d3d65f161" alt="AMWI Layer" width="400">
+<span style="font-size: 18px;"><b>AMWI Layer</b></span>
 
 
 ## Dependencies
